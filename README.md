@@ -1,7 +1,9 @@
 
-component-viwerサンプル
+component-viewrサンプル
 
 node >= 0.12
+
+### setup
 
 ```
 npm install
