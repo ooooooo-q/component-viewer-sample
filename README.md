@@ -1,4 +1,8 @@
 
+component-viwerサンプル
+
+node >= 0.12
+
 ```
 npm install
 
