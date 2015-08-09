@@ -19,5 +19,11 @@
   "devDependencies": {
     "gulp": "^3.9.0",
     "component-viewer": "https://github.com/WaterCell/component-viewer"
+  },
+  "dependencies": {
+    "backbone": "^1.2.1",
+    "backbone.marionette": "^2.4.2",
+    "jquery": "^2.1.4",
+    "underscore": "^1.8.3"
   }
 }

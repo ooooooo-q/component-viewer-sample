@@ -5,7 +5,12 @@ var componentViewer = require('component-viewer');
 gulp.task('components', function() {
   componentViewer({
     scenarios: './test/scenarios/**/*.js',
-    assets: './lib'
+    assets: './lib',
+
+    // preLoaders: [
+    //   // { test: /\.js$/, loader: 'marionettejs-loader' }
+    // ]
+
   });
 });
 
