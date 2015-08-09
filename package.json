@@ -1,0 +1,23 @@
+{
+  "name": "component-viewer-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ooooooo-q/component-viewer-sample.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ooooooo-q/component-viewer-sample/issues"
+  },
+  "homepage": "https://github.com/ooooooo-q/component-viewer-sample#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "component-viewer": "https://github.com/WaterCell/component-viewer"
+  }
+}
