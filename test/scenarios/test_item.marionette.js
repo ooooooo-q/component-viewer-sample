@@ -1,7 +1,7 @@
-var view = require("../../src/test.js")
+var view = require("../../src/test.js").views.item;
 
 module.exports = {
-  tag: 'viewer-header',
+  tag: 'item',
   view: view,
   scenarios: {
     'default': {
