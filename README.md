@@ -1,5 +1,5 @@
 
-component-viewrサンプル
+component-viewerサンプル
 
 node >= 0.12
 
