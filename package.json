@@ -26,6 +26,6 @@
     "underscore": "^1.8.3",
 
     "gulp": "^3.9.0",
-    "component-viewer": "https://github.com/WaterCell/component-viewer#master"
+    "component-viewer": "https://github.com/ooooooo-q/component-viewer#optionalPort"
   }
 }
