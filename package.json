@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm install && ./node_modules/.bin/gulp components"
   },
   "repository": {
     "type": "git",
@@ -14,6 +14,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ooooooo-q/component-viewer-sample/issues"
+  },
+  "engines": {
+    "node": "0.12.7"
   },
   "homepage": "https://github.com/ooooooo-q/component-viewer-sample#readme",
   "devDependencies": {

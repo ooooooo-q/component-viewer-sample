@@ -1,1 +1,1 @@
-web: ./node_modules/.bin/gulp components
+web: npm run start
