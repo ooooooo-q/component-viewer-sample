@@ -1,1 +1,1 @@
-web: npm install WaterCell/component-viewer || npm run start
+web: ./heroku.sh
