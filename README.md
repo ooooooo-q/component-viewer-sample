@@ -8,6 +8,8 @@ node >= 0.12
 ```
 npm install
 
-# npm install gulp-cli -g 
-gulp components
+npm install -g WaterCell/component-viewer
+npm link component-viewer
+
+npm run start # or `gulp components`
 ```
