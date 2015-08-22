@@ -5,8 +5,8 @@ var fs = require('fs');
 
 var test_files = glob.sync('./test/**/*.js');
 
-var targetA = 'http://localhost:3000/view.html'
-var targetB = 'http://localhost:3001/view.html'
+var targetA = 'http://localhost:3000/viewer.html'
+var targetB = 'http://localhost:3001/viewer.html'
 
 var list = [];
 
