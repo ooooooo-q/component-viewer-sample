@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node component.js"
+    "start": "node component.js",
+    "reftest": "node reftest.js"
   },
   "repository": {
     "type": "git",

@@ -11,5 +11,12 @@ npm install --no-optional
 npm install -g WaterCell/component-viewer
 npm link component-viewer
 
-npm run start # or `gulp components`
+npm run start
 ```
+
+
+### reftest
+
+```
+npm instal -g reftest-runner
+npm run reftest
