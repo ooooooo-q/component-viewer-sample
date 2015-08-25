@@ -20,3 +20,4 @@ npm run start
 ```
 npm instal -g reftest-runner
 npm run reftest
+```
