@@ -26,9 +26,7 @@
     "glob": "^5.0.14",
     "jquery": "^2.1.4",
     "underscore": "^1.8.3",
-    "yargs": "^3.21.0"
-  },
-  "optionalDependencies": {
+    "yargs": "^3.21.0",
     "component-viewer": "WaterCell/component-viewer"
   }
 }

@@ -8,9 +8,6 @@ node >= 0.12
 ```
 npm install --no-optional
 
-npm install -g WaterCell/component-viewer
-npm link component-viewer
-
 npm run start
 ```
 
