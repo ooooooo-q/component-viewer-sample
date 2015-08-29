@@ -6,7 +6,7 @@ node >= 0.12
 ### setup
 
 ```
-npm install --no-optional
+npm install
 
 npm run start
 ```
