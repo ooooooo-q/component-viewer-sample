@@ -1,6 +1,6 @@
 var Marionette = require('backbone.marionette');
 var Backbone = require('backbone');
-var _ = require('underscore')
+var _ = require('underscore');
 
 var Model = Backbone.Model.extend({
 	defaults:{
@@ -40,7 +40,7 @@ var CollectionView = Marionette.CollectionView.extend({
 			this.collection = new Collection(options.data);			
 		}
 	}
-})
+});
 
 
 module.exports = {
@@ -49,4 +49,4 @@ module.exports = {
 		collection: CollectionView,
 		item: ItemView
 	}
-}
+};
